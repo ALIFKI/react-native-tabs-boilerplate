@@ -1,1 +1,1 @@
-# easybuy-frontend
+# Boilerplate
